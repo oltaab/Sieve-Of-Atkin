@@ -3,7 +3,7 @@
 
 ## Description
 
-This project provides a C++ implementation of a modified version of the Sieve of Atkin algorithm using concurrent principles (is parallelized). The Sieve of Atkin is a modern algorithm for finding all prime numbers up to a specified integer.
+This project provides a C++ implementation of a modified version of the Sieve of Atkin algorithm using concurrent principles (parallelism). The Sieve of Atkin is a modern algorithm for finding all prime numbers up to a specified integer.
 
   
 ## Installation
